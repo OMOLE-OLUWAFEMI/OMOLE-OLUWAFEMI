@@ -1,6 +1,6 @@
 - 👋 Hi, I’m OMOLE-OLUWAFEMI
 - 👀 I’m a 18 years old software Developer
-- 🌱 I’m currently into CSS,JAVASCRIPT,PHYTON,PHP and lot more.
+- 🌱 Actively learning CSS,JAVASCRIPT,PHYTON amd PHP.
 - 👀 I’m interested in project that can improve me in web design and development.
 - 🌱 Lover of Open Source contribution and Space Advocacy
 - 💞️ I’m looking to collaborate on project that can improve me and to be the best of me in developing websites.
